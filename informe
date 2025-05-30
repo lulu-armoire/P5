@@ -1,0 +1,21 @@
+# PRACTICA 5 : Buses de comunicación 
+
+El objetivo de esta práctica es identificar dispositivos I2C conectados al bus mediante un escáner que muestra las direcciones de los dispositivos detectados.
+
+## Ejercicio 1
+En el primer ejercicio hacemos un escaneado del bus para ver si hay un periférico conectado. 
+#### Código está en GitHub
+
+### Resultado de la salida
+
+![](https://i.imgur.com/PMIYeFa.png)
+
+## Ejercicio 2
+Una vez nos sale el mensaje de que ha detectado el periférico, usamos un display para mostrar la temperatura y la humedad del ambiente que hemos detectado con el sensor de temperatura y humedad. 
+#### Código en GitHub
+
+![](https://i.imgur.com/Qiwzvd2.png)
+
+
+
+> Written with [StackEdit](https://stackedit.io/).
